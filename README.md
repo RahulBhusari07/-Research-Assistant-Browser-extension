@@ -1,1 +1,1 @@
-# -Research-Assistant-Browser-extension
+# Research-Assistant-Browser-extension
